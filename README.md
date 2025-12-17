@@ -27,8 +27,8 @@ I’m interested in working on:
 
 📬 How to Reach Me:
 - GitHub: https://github.com/mubashir2117  
-- Email: (Open to collaboration & learning opportunities)
-
+- Email: mubashiraptech21@gmail.com
+- Instagram: https://www.instagram.com/mj_mubashir21/
 😄 Fun Fact:
 When I'm not coding, I enjoy structuring clean logic, improving UI layouts, and turning complex programming concepts into simple explanations. I strongly believe that consistency and clarity are the keys to mastering coding!
 

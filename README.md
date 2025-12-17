@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**mubashir2117/mubashir2117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Mubashir!
 
-Here are some ideas to get you started:
+I'm a passionate software developer and computer science student with a strong interest in programming, problem-solving, and building practical applications. My learning journey revolves around understanding core programming concepts, object-oriented design, and modern development tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 What I'm Focused On:
+- Programming Fundamentals: C++, Python, and C# with strong OOP concepts  
+- Python Development: Streamlit apps, quizzes, and utility tools  
+- Web & Docs Platforms: Docusaurus-based documentation websites  
+- Problem Solving: Logical thinking, algorithms, and clean code practices  
+
+🌱 Currently Learning:
+- Advanced Object-Oriented Programming (Python & C#)  
+- Streamlit web app enhancements (timers, progress bars, reports)  
+- Digital Logic Design & Computer Architecture concepts  
+- Building structured educational and documentation projects  
+
+🤝 Let's Collaborate:
+I'm always open to collaborating with learners, developers, and educators. If you're working on an educational platform, coding project, or documentation site, I’d love to contribute!
+
+I’m interested in working on:
+- Educational & learning-based applications  
+- Python & C# projects  
+- Documentation websites (Docusaurus)  
+- Beginner-friendly coding tools  
+
+📬 How to Reach Me:
+- GitHub: https://github.com/mubashir2117  
+- Email: (Open to collaboration & learning opportunities)
+
+😄 Fun Fact:
+When I'm not coding, I enjoy structuring clean logic, improving UI layouts, and turning complex programming concepts into simple explanations. I strongly believe that consistency and clarity are the keys to mastering coding!
+
+Feel free to explore my repositories and let’s build something meaningful together! 🚀✨

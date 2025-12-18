@@ -11,16 +11,17 @@ I'm a passionate software developer and computer science student with a strong i
 - Problem Solving: Logical thinking, algorithms, and clean code practices  
 
 🌱 Currently Learning:
-- Advanced Object-Oriented Programming (Python & C#)  
-- Streamlit web app enhancements (timers, progress bars, reports)  
-- Digital Logic Design & Computer Architecture concepts  
+- DSA and Moble Applicationn Core Concepts
+- Advanced Object-Oriented Programming (Python, Agentic AI)  
+- Streamlit web app enhancements (Progress bars,Growth mindset)  
 - Building structured educational and documentation projects  
 
 🤝 Let's Collaborate:
 I'm always open to collaborating with learners, developers, and educators. If you're working on an educational platform, coding project, or documentation site, I’d love to contribute!
 
 I’m interested in working on:
-- Educational & learning-based applications  
+- Educational & learning-based applications
+- Mobile Application Using React-native
 - Python & C# projects   
 - Beginner-friendly coding tools  
 

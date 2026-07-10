@@ -99,14 +99,14 @@ A complete database management system designed for handling hotel operations eff
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mubashir2117&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9cdd4" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir2117&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9cdd4" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mubashir2117&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9cdd4&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashir2117&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9cdd4&bg_color=0d1117" alt="Top Languages" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=mubashir2117&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mubashir2117&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=0d1117" alt="GitHub Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mubashir2117&no-frame=true&no-bg=true&theme=nord" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mubashir2117&no-frame=true&no-bg=true&theme=nord&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashir2117&theme=react-dark&color=7dd3fc&line=7dd3fc&point=7dd3fc" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mubashir2117&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&custom_title=Mubashir's%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 </div>
 

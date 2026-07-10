@@ -17,27 +17,43 @@
 
 ### 👀 Who I Am
 
+<table align="center">
+<tr><td>
+
 ```typescript
 const mubashir = {
   title: "Software Developer | CS Student",
+
   stack: {
-    languages: ["C++", "Python", "C#"],
-    databases: ["SQL"],
+    languages:  ["C++", "Python", "C#"],
+    databases:  ["SQL"],
     docsAndWeb: ["Docusaurus"],
-    tools: ["Git", "GitHub", "VS Code"]
+    tools:      ["Git", "GitHub", "VS Code"]
   },
+
   launchedProjects: [
-    "Grand Palace Database Project — Hotel Management System (DBMS)"
+    "🏨 Grand Palace Database Project — Hotel Management System (DBMS)"
   ],
-  status: "Learning DSA, Advanced OOP, Agentic AI & Streamlit enhancements",
+
+  status: "🌱 Learning DSA, Advanced OOP, Agentic AI & Streamlit enhancements",
+
   openTo: [
-    "Educational & learning-based applications",
-    "Mobile apps using React Native",
-    "Python, SQL & C# projects",
-    "Database management system projects"
+    "📚 Educational & learning-based applications",
+    "📱 Mobile apps using React Native",
+    "🐍 Python, SQL & C# projects",
+    "🗄️ Database management system projects"
   ]
-};
+} as const;
 ```
+
+</td></tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,cs,sql,docusaurus,git,github,vscode" alt="Stack Icons"/>
+
+</div>
 
 ---
 
